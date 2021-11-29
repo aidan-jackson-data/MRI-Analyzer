@@ -5,9 +5,9 @@
 <p align="center">
   <p align="center"><strong>MRI ANALYZER</strong></p>
   <p align="center"><strong>Piotr Parkitny | pparkitny@ischool.berkeley.edu</strong></p>
-  <p align="center"><strong>Dhyani Parekh  | @ischool.berkeley.edu</strong></p>
-  <p align="center"><strong>Aidan Jackson  | @ischool.berkeley.edu</strong></p>
-  <p align="center"><strong>Candice Sener  | @ischool.berkeley.edu</strong></p>  
+  <p align="center"><strong>Dhyani Parekh  | dhyanip7@ischool.berkeley.edu</strong></p>
+  <p align="center"><strong>Aidan Jackson  | aidanjackson@ischool.berkeley.edu</strong></p>
+  <p align="center"><strong>Candice Sener  | senercansu@ischool.berkeley.edu</strong></p>  
 </p>
 
 <!-- TABLE OF CONTENTS -->
@@ -18,4 +18,4 @@
 <!-- OVERVIEW -->
 Overview
 ------------
-- THis is the code repository for the MRI ANALYZER project
+- Code repository for the MRI ANALYZER project
