@@ -31,7 +31,7 @@ Results
 ------------
 
 <p align="center">
-    <img src="pics/table.png" alt="Logo" width="2056" height="580">
+    <img src="pics/table.png" alt="Table">
 </p>
 
 <!-- Citations -->
