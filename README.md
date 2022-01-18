@@ -24,7 +24,7 @@ This repository provides final pipeline code for MRI Analyzer, the capstone proj
 
 MRI Analyzer provides an end-to-end pipeline capable of taking a variety of patient medical information and providing a prostate cancer diagnosis. This product offers flexibility to patients who only have a partial data record available, qualifies its predictions with uncertainty estimates at each step, and matches in-practice metrics of cancer diagnosis. With this, accuracy and speed improvements can be achieved over current practice while still maintaining usefulness in a variety of healthcare scenarios.
 
-For a general overview of results, see the file `Final_Presentation.pdf`.
+For a general overview of results, see the [website](https://aidan-jackson-data.github.io/MRI-Analyzer/) at https://aidan-jackson-data.github.io/MRI-Analyzer/ or the file `Final_Presentation.pdf`.
 
 <!-- Results -->
 Results
